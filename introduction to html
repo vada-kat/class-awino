@@ -1,0 +1,38 @@
+networking _ INTERCONNECTION OF DEVICES TOGEATHER
+internet >>refers to devices CONNECTED TOGEATHER FOR SHARING Information, resources, data
+ISP (internet services provider) they controll the network status in a particular region, eg country
+IP adress; is a unique digital home identifier for devices connected to the internet.
+full name is the internet protocol adress
+1) forward proxy - bounces your IP adress forward in regard to the data youre looking for and masks your location
+2) backward proxy- back tracks your IP adress to various location
+localhost ip adress (ipv4, ipv6)
+routers, boosters, switches , packets, layers
+routing; refers to finding the best route for progating data in a network, with the use of routers
+routing in networking refers to finding best route for packets (circuit switching, packet switching)
+encoding and decoding
+encoding; encrypting the data into a cypher text or cryptic text and generates a key that only the computer (sender)and receiver share
+transfer through the network
+in between is where we have malicious users (session hijacking, access control methods...)
+decoding; the receivers has the unique key which it uses to decipher the data
+//different layers in networking
+application layer
+presentation layer
+sesssion layer
+transport layer
+network layer
+datalink layer
+physical layer...bitwise manipilation of data
+protocols:
+TCP (transmission control protocol)
+https (hyper text transfer protocol.. secure)
+UDP (USER DATA GRAM Protocol)
+smtp-simple/small mail transfer protocol
+ftp-file transfer protocol
+http-hypertext transfer protocol(post, getS)
+
+
+reseacrch on html
+html is a markup language that is used i web development
+other markup languages are xml, xhtml
+curently we are at html5....increased dynamicity
+the lanuages used in fronted are three ,,,html,css,javascript
